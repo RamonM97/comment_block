@@ -1,0 +1,8 @@
+name: 'Comment Block'
+type: module
+description: 'Bloque que muestra información sobre los comentarios de un usuario en su perfil'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:comment
+  - drupal:node

@@ -1,0 +1,12 @@
+
+  
+  .custom-comment-table th, .custom-comment-table td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .custom-comment-table th {
+    background-color: #adaaaa;
+    color: #333333;
+  }

@@ -1,0 +1,4 @@
+comment_block_styles:
+  css:
+    theme:
+      css/custom.css: {} #librería CSS para la tabla
